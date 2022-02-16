@@ -66,6 +66,8 @@ form button{
   background: white;
   border: none;
   padding: 1rem;
+  width: fit-content;
+  height: fit-content;
   cursor: pointer;
 }
 
